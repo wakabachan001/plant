@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
 
     float moveSpeed = 6;
-    float gravity = -20;
+    float gravity = -1;
     Vector3 velocity;
 
     Controller2D controller;
